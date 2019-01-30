@@ -8,10 +8,11 @@ body {
 h1 {
   font-family: 'Major Mono Display', monospace;
   font-size: 30px;
+  color: blue;
 }
 
 h2, h3 {
-color: red;
+color: blue;
 font-family: Century;
 font-size: 20px;
 line-height: 35px;
