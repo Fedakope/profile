@@ -75,8 +75,8 @@ p {
 }
 
 .footer {
-  background: olive;
-  color: white;
+  background: white;
+  color: grey;
   padding: 10px;
   margin-bottom: 20px;
   border-radius: 15px;
@@ -105,6 +105,12 @@ p {
   color: #113f67;
 }
 
+.rounded-img {
+  border-radius: 10%;
+  border: 2px solid #113f67;
+}
+
+
 
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
@@ -124,5 +130,6 @@ p {
     width: 300px;
   }
 }
+
 
 
