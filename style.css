@@ -32,7 +32,7 @@ a:hover {
 #pp {
   border-radius: 50%;
   text-align: center;
-  border: 2px solid black;
+  border: 2px solid #113f67;
 }
 
 .container {
@@ -90,14 +90,14 @@ a:hover {
   padding-left: 0px;
 }
 
-.big-grey-button > li > a {
+.big-blue-button > li > a {
   font-size: 60px;
-  color: grey;
+  color: #34699a;
 }
 
-.big-grey-button > li > a:hover {
+.big-blue-button > li > a:hover {
   font-size: 60px;
-  color: #408ab4;
+  color: #113f67;
 }
 
 
