@@ -98,11 +98,13 @@ p {
 .big-blue-button > li > a {
   font-size: 60px;
   color: #34699a;
+  text-shadow: 1px 1px black;
 }
 
 .big-blue-button > li > a:hover {
   font-size: 60px;
   color: #113f67;
+  text-shadow: 1px 1px black;
 }
 
 .rounded-img {
