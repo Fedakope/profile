@@ -8,11 +8,11 @@ body {
 h1 {
   font-family: 'Major Mono Display', monospace;
   font-size: 30px;
-  color: blue;
+  color: #113f67;
 }
 
 h2, h3 {
-color: blue;
+color: #34699a;
 font-family: Century;
 font-size: 20px;
 line-height: 35px;
@@ -26,13 +26,13 @@ a {
 
 
 a:hover {
-  color: pink;
+  color: #408ab4;
 }
 
 #pp {
   border-radius: 50%;
   text-align: center;
-  border: 3px solid grey;
+  border: 2px solid black;
 }
 
 .container {
@@ -97,7 +97,7 @@ a:hover {
 
 .big-grey-button > li > a:hover {
   font-size: 60px;
-  color: maroon;
+  color: #408ab4;
 }
 
 
